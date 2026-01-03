@@ -87,7 +87,7 @@ amountB = (liquidityBurned * reserveB) / totalLiquidity
 ---
 
 ## Project Structure
-
+```
 dex-amm/
 ├── contracts/
 │   ├── DEX.sol
